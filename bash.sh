@@ -3,6 +3,8 @@
 apt-get install git -y
 apt-get install apache2 -y
 apt-get install php5 -y
+sudo apt-get install python-pyudev -y
+pip install fabric
 
 mkdir repo
 cd repo
